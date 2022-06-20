@@ -24,4 +24,4 @@ Steps
 > source ~/zephyrproject/zephyr/zephyr-env.sh
 4. > west build -p -b esp32c3_devkitm
 5. > west flash
-6. Connect a termial emulator to the detected serial port set buad rate @ 115200
+6. Connect a termial emulator to the detected serial port set baud rate @ 115200
