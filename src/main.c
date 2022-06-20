@@ -20,7 +20,7 @@ static const struct gpio_dt_spec ledblue  = GPIO_DT_SPEC_GET(LEDBLUE_NODE, gpios
 
 /**
 * init_failed()
-* function called if there i any kinf od zephyr initialisation problem
+* function called if there is any kind of zephyr initialisation problem
 */
 void init_failed(void) {
 
