@@ -1,7 +1,12 @@
-/*
- * Copyright (c) 2012-2014 Wind River Systems, Inc.
- *
- * SPDX-License-Identifier: Apache-2.0
+/**
+ * @file main.c
+ * @author Trevor Heyl trevor@planet3.co.za
+ * @brief 
+ * @version 0.1
+ * @date 2022-06-20
+ * 
+ * MIT license
+ * 
  */
 
 #include <zephyr.h>
